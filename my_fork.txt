@@ -1,0 +1,9 @@
+Only the Classic part with some changes that I need or don't need for my personal use:
+
+without Pendant, without Keyboard movement.
+
+with some gui changes, a slightly better preview and a simple "continuous jogging". Left mouse button click - normal jog with stepsizes. Right mouse button down/release "continuous jogging".
+
+Only tested with grbl 1.1
+
+May be it is useful for somebody.
