@@ -2,7 +2,7 @@ Only the Classic part with some changes that I need or don't need for my persona
 
 without Pendant, without Keyboard movement.
 
-with some gui changes, a slightly better preview and a simple "continuous jogging". Left mouse button click - normal jog with stepsizes. Right mouse button down/release "continuous jogging".
+with some gui changes, a slightly better preview and a simple "continuous jogging". Left mouse button click - normal jog with stepsizes. Right mouse button down/release "continuous jogging". Preview renders normaly in ISO1 but the user can switch with 1 und 2 Key from ISO to xy view.
 
 Only tested with grbl 1.1
 
